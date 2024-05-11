@@ -1,0 +1,65 @@
+[
+  {
+  "_id": {
+    "$oid": "663e763bfdd1141ddeb862e3"
+  },
+  "Nombre": "Natalia Villa Lobos",
+  "Identificación": "1.123.456",
+  "Edad": 25,
+  "Genereo": "Femenino",
+  "Equipo": "Ataltico",
+  "id_Deportista": 30
+}
+]
+[
+ {
+  "_id": {
+    "$oid": "663e76fbfdd1141ddeb862e8"
+  },
+  "Nombre": "Ana María Zapata",
+  "Identificación": "1.134.456",
+  "Edad": 23,
+  "Genereo": "Femenino",
+  "Equipo": "Antioquia",
+  "id_Deportista": 35
+}
+]
+[
+  {
+  "_id": {
+    "$oid": "663e7881fdd1141ddeb862ea"
+  },
+  "Nombre": "Mery Felisa Macilla",
+  "Identificación": "1.156.456",
+  "Edad": 40,
+  "Genereo": "Femenino",
+  "Equipo": "Valle",
+  "id_Deportista": 50
+}
+]
+[
+  {
+  "_id": {
+    "$oid": "663e7a5efdd1141ddeb862ef"
+  },
+  "Nombre": "Ana Isabel Manjarres",
+  "Identificación": "1.166.456",
+  "Edad": 35,
+  "Genereo": "Femenino",
+  "Equipo": "Bogota D.C",
+  "id_Deportista": 65
+}
+[
+  {
+  "_id": {
+    "$oid": "663e7ae8fdd1141ddeb862f4"
+  },
+  "Nombre": "Daniela Castro Barrios",
+  "Identificación": "1.789.456",
+  "Edad": 30,
+  "Genereo": "Femenino",
+  "Equipo": "Bolivar",
+  "id_Deportista": 79
+}
+]
+]
