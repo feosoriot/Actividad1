@@ -1,0 +1,60 @@
+[
+  {
+  "_id": {
+    "$oid": "663e734efdd1141ddeb862d5"
+  },
+  "Nombre": "Atlantico",
+  "Plantilla": 14,
+  "Titulares": 6,
+  "Departamento": "Atlantico",
+  "id_Equipo": 1
+}
+]
+[
+  {
+  "_id": {
+    "$oid": "663e740cfdd1141ddeb862da"
+  },
+  "Nombre": "Valle",
+  "Plantilla": 17,
+  "Titulares": 6,
+  "Departamento": "Valle del Cauca",
+  "id_Equipo": 2
+}
+]
+[
+  {
+  "_id": {
+    "$oid": "663e7448fdd1141ddeb862dc"
+  },
+  "Nombre": "Antioquia",
+  "Plantilla": 17,
+  "Titulares": 6,
+  "Departamento": "Antioquia",
+  "id_Equipo": 3
+}
+]
+[
+  {
+  "_id": {
+    "$oid": "663e7492fdd1141ddeb862de"
+  },
+  "Nombre": "Bolivar",
+  "Plantilla": 17,
+  "Titulares": 6,
+  "Departamento": "Bolivar",
+  "id_Equipo": 4
+}
+]
+[
+  {
+  "_id": {
+    "$oid": "663e74c7fdd1141ddeb862e0"
+  },
+  "Nombre": "Bogota D.C",
+  "Plantilla": 17,
+  "Titulares": 6,
+  "Departamento": "Bogota D.C",
+  "id_Equipo": 5
+}
+]
