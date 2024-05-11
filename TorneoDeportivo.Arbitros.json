@@ -1,0 +1,65 @@
+[
+  {
+  "_id": {
+    "$oid": "663e7be7fdd1141ddeb862fe"
+  },
+  "Nombre": "Gustabo Martinez",
+  "Identificación": "1.777.456",
+  "Edad": 50,
+  "Genereo": "Masculino",
+  "Equipo": "Atlantico",
+  "id_Entrenador": 100
+}
+]
+[
+  {
+  "_id": {
+    "$oid": "663e7c88fdd1141ddeb86300"
+  },
+  "Nombre": "Sergio Rivera",
+  "Identificación": "1.555.456",
+  "Edad": 52,
+  "Genereo": "Masculino",
+  "Equipo": "Valle",
+  "id_Entrenador": 101
+}
+]
+[
+  {
+  "_id": {
+    "$oid": "663e7d36fdd1141ddeb86303"
+  },
+  "Nombre": "Andres Mesa",
+  "Identificación": "1.333.456",
+  "Edad": 48,
+  "Genereo": "Masculino",
+  "Equipo": "Antioquia",
+  "id_Entrenador": 103
+}
+]
+[
+  {
+  "_id": {
+    "$oid": "663e7dc5fdd1141ddeb86308"
+  },
+  "Nombre": "Antonio Rizola",
+  "Identificación": "1.897.456",
+  "Edad": 55,
+  "Genereo": "Masculino",
+  "Equipo": "Bogota D.C",
+  "id_Entrenador": 104
+}
+]
+[
+  {
+  "_id": {
+    "$oid": "663e7e53fdd1141ddeb8630a"
+  },
+  "Nombre": "Jorge Cantillo",
+  "Identificación": "1.654.456",
+  "Edad": 49,
+  "Genereo": "Masculino",
+  "Equipo": "Bolivar",
+  "id_Entrenador": 105
+}
+]
