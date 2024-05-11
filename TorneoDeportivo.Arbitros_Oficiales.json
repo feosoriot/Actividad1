@@ -1,0 +1,65 @@
+[
+ {
+  "_id": {
+    "$oid": "663e8da4fdd1141ddeb8632c"
+  },
+  "id": 300,
+  "Nombre": "Misael Galindo",
+  "Identificación": "28.456.987",
+  "Genero": "Masculino",
+  "Rol": "Primer Arbitro",
+  "Edad": 56
+}
+]
+[
+{
+  "_id": {
+    "$oid": "663e8ddcfdd1141ddeb8632e"
+  },
+  "id": 301,
+  "Nombre": "Mauricio Villafañe",
+  "Identificación": "28.799.987",
+  "Genero": "Masculino",
+  "Rol": "Primer Arbitro",
+  "Edad": 45
+}
+]
+[
+  {
+  "_id": {
+    "$oid": "663e8f9afdd1141ddeb86330"
+  },
+  "id": 302,
+  "Nombre": "Jorge Ernesto Erazo",
+  "Identificación": "25.456.987",
+  "Genero": "Masculino",
+  "Rol": "Segundo Arbitro",
+  "Edad": 43
+}
+]
+[
+  {
+  "_id": {
+    "$oid": "663e91a9fdd1141ddeb86333"
+  },
+  "id": 303,
+  "Nombre": "Antonio Rizola",
+  "Identificación": "21.789.987",
+  "Genero": "Masculino",
+  "Rol": "Juez de linea",
+  "Edad": 60
+}
+]
+[
+  {
+  "_id": {
+    "$oid": "663e924ffdd1141ddeb86335"
+  },
+  "id": 304,
+  "Nombre": "Yeison Garcia Mosso",
+  "Identificación": "113.789.987",
+  "Genero": "Masculino",
+  "Rol": "Primer Arbitro",
+  "Edad": 28
+}
+]
