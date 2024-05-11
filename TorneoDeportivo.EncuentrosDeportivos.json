@@ -1,0 +1,65 @@
+[
+  {
+  "_id": {
+    "$oid": "663e80a1fdd1141ddeb86310"
+  },
+  "id_Partido": 500,
+  "Fecha": "21/11/2023 13:25:00",
+  "SetJugados": 4,
+  "EquipoGanador": "Antioquia",
+  "PuntosGanador": 96,
+  "PuntosPerdedor": 80
+}
+]
+[
+  {
+  "_id": {
+    "$oid": "663e81c4fdd1141ddeb86312"
+  },
+  "id_Partido": 510,
+  "Fecha": "21/11/2023 16:00:00",
+  "SetJugados": 4,
+  "EquipoGanador": "Valle",
+  "PuntosGanador": 97,
+  "PuntosPerdedor": 88
+}
+]
+[
+  {
+  "_id": {
+    "$oid": "663e827efdd1141ddeb86314"
+  },
+  "id_Partido": 520,
+  "Fecha": "22/11/2023 15:15:00",
+  "SetJugados": 4,
+  "EquipoGanador": "Bolivar",
+  "PuntosGanador": 97,
+  "PuntosPerdedor": 87
+}
+]
+[
+  {
+  "_id": {
+    "$oid": "663e82d8fdd1141ddeb86316"
+  },
+  "id_Partido": 540,
+  "Fecha": "23/11/2023 13:00:00",
+  "SetJugados": 4,
+  "EquipoGanador": "Bogota D.c",
+  "PuntosGanador": 96,
+  "PuntosPerdedor": 84
+}
+]
+[
+  {
+  "_id": {
+    "$oid": "663e836bfdd1141ddeb8631b"
+  },
+  "id_Partido": 550,
+  "Fecha": "22/11/2023 18:00:00",
+  "SetJugados": 3,
+  "EquipoGanador": "Atlantico",
+  "PuntosGanador": 75,
+  "PuntosPerdedor": 46
+}
+]
